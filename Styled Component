@@ -1,0 +1,34 @@
+import React from 'react'
+import styled from 'style-components';
+
+
+const =App()=>{
+
+
+const Button=styled.button'
+background-color:black;
+color:red;
+';
+const Para=styled.p'
+color:green;
+';
+// if we dont want to create seprate 
+const Wrapper=styled.section'
+.btn{
+
+
+}
+p{
+
+}
+
+'
+return <>
+<Wrapper>
+<button className="btn">  Click Here   </button>
+<p>Hi I am Gaurav</p>
+</Wrapper>
+</>
+
+}
+
